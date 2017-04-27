@@ -1,6 +1,6 @@
 {
   "name": "wechat-pay-jna",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "微信支付（JSAPI,NATIVE,APP）",
   "main": "index.js",
   "scripts":
